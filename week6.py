@@ -142,4 +142,6 @@ Hello ever
 """
 cannot be changed
 String is immutable
+
++ is used to concatenate
 """
